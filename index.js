@@ -16,7 +16,7 @@ else if (XpDoPersonagem >= 2001 && XpDoPersonagem <= 5000){
 }
 
 else if (XpDoPersonagem >= 5001 && XpDoPersonagem <= 7000){
-    console.log("O Herói do nome " + Personagem + "está no nível de Ouro");
+    console.log("O Herói do nome " + Personagem + " está no nível de Ouro");
 }
 
 else if (XpDoPersonagem >= 7001 && XpDoPersonagem <= 8000){
