@@ -29,7 +29,7 @@ else if (XpDoPersonagem >= 8001 && XpDoPersonagem <= 9000){
 
 else if (XpDoPersonagem >= 9001 && XpDoPersonagem <= 10000){
     console.log("O Herói do nome " + Personagem + " está no nível de Imortal");
-}
+} 
 
 else {
     console.log("O Herói do nome " +  Personagem +  " está no nível de Radiante");
